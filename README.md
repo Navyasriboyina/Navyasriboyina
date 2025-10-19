@@ -46,13 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub streak" height="160" />
-</p>
 
----
 
 ### 🌟 Quote  
-<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.”</i></p>
+<p align="center"><i>“Turning curiosity into code and challenges into innovation.”</i></p>
