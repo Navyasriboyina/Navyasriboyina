@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Navya Sri</h1>
 <h3 align="center">Aspiring Software Engineer & Data Analyst</h3>
 
-- 🔭 I’m currently working on **Obesity Prediction**
+- -🔭 I’m currently working on **Obesity Prediction**
 
-- 🌱 I’m currently learning **DBMS,Backend Technologies**
+- -🌱 I’m currently learning **DBMS,Backend Technologies**
+- - ⚡ Fun fact: I love turning research papers into real-world projects!  
 
-- 📫 How to reach me **boyinanavyasri024@gmail.com**
+
+- -📫 How to reach me **boyinanavyasri024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
