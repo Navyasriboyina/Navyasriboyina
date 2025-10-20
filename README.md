@@ -1,15 +1,20 @@
 <h1 align="center">👋 Hi, I'm Navya Sri</h1>
-<h3 align="center">🌱 Emerging Software Engineer & Data Analyst</h3>
+<h3 align="center">
+  <marquee behavior="alternate" direction="right" scrollamount="4">
+    🌱 Emerging Software Engineer & Data Analyst 🌱
+  </marquee>
+</h3>
+
 
 ---
 
 ### 🚀 About Me  
 🎓 I'm passionate about building intelligent systems and analyzing data-driven insights.  
 💡 Currently working on **Obesity Prediction Using Machine Learning**.  
-📚 Learning **DBMS** and **Backend Technologies** to strengthen my full-stack skills.  
+📚 Learning **DBMS** and **Backend Technologies** to strengthen my skills.  
 ⚡ Fun fact: I love turning research papers into real-world projects!  
 
-📫 **Reach me at:** [boyinanavyasri024@gmail.com](mailto:boyinanavyasri024@gmail.com)
+📫 **Reach me at:** [238w5a1202@vrsec.ac.in](mailto:238w5a1202@vrsec.ac.in)
 
 ---
 
